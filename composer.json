@@ -1,5 +1,5 @@
 {
-    "name": "appforgenet/yii2-fpdf",
+    "name": "appforge/yii2-fpdf",
     "description": "Erstellung von PDFs",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
@@ -14,6 +14,6 @@
         "yiisoft/yii2": "*"
     },
     "autoload": {
-		"classmap": ["lib"],
+		"classmap": ["lib"]
     }
 }
