@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist appforge/yii2-fpdf "*"
+php composer.phar require --prefer-dist appforgenet/yii2-fpdf "*"
 ```
 
 or add
 
 ```
-"appforge/yii2-fpdf": "*"
+"appforgenet/yii2-fpdf": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -28,4 +28,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \appforge\fpdf\AutoloadExample::widget(); ?>```
+<?= \appforgenet\fpdf\AutoloadExample::widget(); ?>```
