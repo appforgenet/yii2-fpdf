@@ -5,6 +5,7 @@
     "keywords": ["yii2","extension","fpdf"],
     "homepage": "https://github.com/appforgenet/yii2-fpdf",
     "license": "BSD-3-Clause",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "App-Forge.net",
