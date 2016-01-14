@@ -2,7 +2,8 @@
     "name": "appforge/yii2-fpdf",
     "description": "Erstellung von PDFs",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension"],
+    "keywords": ["yii2","extension","fpdf"],
+    "homepage": "https://github.com/appforgenet/yii2-fpdf",
     "license": "BSD-3-Clause",
     "authors": [
         {
