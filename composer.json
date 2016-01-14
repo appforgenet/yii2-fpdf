@@ -1,0 +1,19 @@
+{
+    "name": "appforge/yii2-fpdf",
+    "description": "Erstellung von PDFs",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "App-Forge.net",
+            "email": "info@app-forge.net"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+		"classmap": ["lib"],
+    }
+}
